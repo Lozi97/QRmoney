@@ -1,0 +1,15 @@
+{
+  "name": "qrmoney",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^24.0.0",
+    "react": "16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
+    "jwt-decode": "2.2.0",
+    "react-native-deprecated-custom-components": "0.1.2"
+  }
+}
